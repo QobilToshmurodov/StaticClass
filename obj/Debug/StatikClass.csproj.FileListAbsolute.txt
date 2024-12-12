@@ -1,0 +1,7 @@
+E:\PROJECTS\StatikClass\bin\Debug\StatikClass.exe.config
+E:\PROJECTS\StatikClass\bin\Debug\StatikClass.exe
+E:\PROJECTS\StatikClass\bin\Debug\StatikClass.pdb
+E:\PROJECTS\StatikClass\obj\Debug\StatikClass.csproj.AssemblyReference.cache
+E:\PROJECTS\StatikClass\obj\Debug\StatikClass.csproj.CoreCompileInputs.cache
+E:\PROJECTS\StatikClass\obj\Debug\StatikClass.exe
+E:\PROJECTS\StatikClass\obj\Debug\StatikClass.pdb
